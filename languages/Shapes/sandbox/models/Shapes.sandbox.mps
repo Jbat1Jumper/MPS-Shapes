@@ -53,6 +53,14 @@
         <ref role="3nsF6l" to="npn3:7c7Df2$tdtl" resolve="green" />
       </node>
     </node>
+    <node concept="3nt3uW" id="7c7Df2$$bBh" role="3nt3uD">
+      <property role="3nt3uX" value="200" />
+      <property role="3nt3uZ" value="200" />
+      <property role="3nt3uy" value="100" />
+      <node concept="3nsF6i" id="7c7Df2$$bD$" role="3nsF5D">
+        <ref role="3nsF6l" to="npn3:7c7Df2$tdtj" resolve="blue" />
+      </node>
+    </node>
   </node>
 </model>
 
